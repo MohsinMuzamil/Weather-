@@ -13,7 +13,7 @@ This app fetches and displays the current weather for a user-specified city usin
 ## Screenshots
 
 
-![Weather App Screenshot](https://via.placeholder.com/400x700.png?text=Weather+App+Screenshot)
+![Weather App Screenshot](https://via.placeholder.com/400x700/2196f3/ffffff?text=Weather+App)
 
 ## Getting Started
 
